@@ -1,5 +1,7 @@
 # Splurty
 
+Live site: https://splurty-julian-smith.herokuapp.com/
+
 ## About
 
 Splurty is a quote generator. It displays a quote at random, and allows users to add additional entries.
