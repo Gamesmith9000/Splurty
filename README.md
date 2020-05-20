@@ -1,24 +1,19 @@
-# README
+# Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
 
-Things you may want to cover:
+Splurty is a quote generator. It displays a quote at random, and allows users to add additional entries.
 
-* Ruby version
+Entitled Guitar Nuggets: Greatest Picks, this version of Splurty is dedicated to interesting quotes from guitarists.
 
-* System dependencies
+## Getting Started
 
-* Configuration
+Using Guitar Nuggets is easy.
 
-* Database creation
+* A quote will automatically be displayed on the page.
 
-* Database initialization
+* To see another quote, simply click on `This isn't enough, I need more` or the Guitar Nuggets logo.
 
-* How to run the test suite
+* To add a quote, simply click the `Contribute` button, fill out the form, and hit `Create`. Then, your quote becomes part of the Guitar Nuggets database!
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* To see more information about the original Splurty, or about me, click on the `About` link.
