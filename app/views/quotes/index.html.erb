@@ -1,7 +1,9 @@
 <h2>
   <% quote_number = @quote ? @quote.id : 0 %>
   <span>SPLURTY / No. <%= quote_number %></span>
-  <%= 'Here are the <u>best unusual musings for and by guitarists</u>!' if @quote %>
+  <% if @quote %>
+    Here are the <u>best unusual musings for and by guitarists</u>!
+  <% end %>
 </h2>
 
 <h1><%= @quote ? @quote.saying : 'Be the first to contribute a guitar nugget!' %></h1>
