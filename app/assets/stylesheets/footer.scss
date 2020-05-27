@@ -1,18 +1,15 @@
-/* Sticky footer style*/
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 body {
   margin-bottom: 60px;
 }
 
+html {
+  min-height: 100%;
+  position: relative;
+}
+
 .footer {
-  position: absolute;
   bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
   height: 60px;
+  position: absolute;
+  width: 100%;
 }
