@@ -23,3 +23,10 @@ Using Guitar Nuggets is easy.
 ![Splurty2](https://user-images.githubusercontent.com/55506831/87602740-22039480-c6bd-11ea-9682-5ca0b1b5c796.png)
 
 * To see more information about the original Splurty, or about me, click on the `About` link.
+
+## Built With
+
+* [Bootstrap](https://getbootstrap.com/) - Front-End library
+* [Heroku](https://www.heroku.com/) - Deployment
+* [Ruby on Rails](https://rubyonrails.org/) - Web application framework
+* [PostgreSQL](https://www.postgresql.org/) - Database
